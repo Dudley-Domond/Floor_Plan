@@ -1,0 +1,74 @@
+body {
+  background-image: url("https://image.shutterstock.com/image-illustration/modern-house-terrace-swimming-pool-260nw-1513007366.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  height: 100%;
+  color: white;
+  border: 10px double black;
+  margin: 5rem;
+}
+
+.bedroom {
+  border: 5px solid orange;
+  margin: 5rem;
+}
+
+.App {
+  text-align: center;
+}
+
+.floorplan {
+  border: 5px solid green;
+  margin: 5rem;
+}
+
+.bathroom {
+  border: 5px solid white;
+  margin: 5rem;
+}
+
+.itemoven {
+  border: 5px solid white;
+  margin: 5rem;
+  padding-top: 5px;
+  width: 790px;
+  height: 50px;
+}
+
+.kitchenroom {
+  border: 5px solid orangered;
+  margin: 5rem;
+}
+
+.livingroom {
+  border: 5px solid white;
+  margin: 5rem;
+}
+.itemsink {
+  border: 5px solid white;
+  margin: 5rem;
+  padding-top: 5px;
+  width: 790px;
+  height: 50px;
+}
+
+.bed1 {
+  border: 5px solid white;
+  margin: 5rem;
+  padding-top: 5px;
+  width: 790px;
+  height: 50px;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
